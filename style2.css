@@ -1,0 +1,21 @@
+h1{
+	border:10px; border-style:double; background:yellow; color: cyan ;
+}
+tabel,th,td {
+	border:1px solid red;
+}
+caption{
+       caption-side:bottom; size:3em;	
+}
+tr:hover{ background-color:gray;
+	
+}
+tr:nth-child(even){
+	background-color:green ; color:red ;
+}
+h2{
+	border:10px; border-style:groove; background:red ; color: white; size:5em;
+}
+a{
+	background : yellow ; color : red ; 
+}

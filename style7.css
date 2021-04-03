@@ -1,0 +1,6 @@
+p{
+	background-color:red; color:yellow;  border :10px; border-style :groove ;   font-size : 10em ;
+}
+h2{
+	background-color:cyan; color:red;  border :5px; border-style :outset;   font-size : 5em ;
+}

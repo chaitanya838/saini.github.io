@@ -1,0 +1,17 @@
+p{
+	background :  gray ; color : blue ; font-variant : normal  ; font-size : 1em ; font-weight :
+	normal ; border :10px; border-style :groove ;          		 ;
+}
+
+h2{
+	border:10px; border-style:double; background:yellow; color: cyan ;
+}
+video{
+	border:15px; border-style:inset;
+}
+img{
+	border:5px; border-style:outset; border-color:orange;
+}
+ul,ol{
+	background-color:yellow;
+}

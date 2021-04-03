@@ -1,0 +1,12 @@
+legend{
+	background:red; color:blue; font-size:3em;
+}
+fieldset{
+	background:yellow; color:green; font-size:3em;
+}
+input{
+	color:red; background:aqua; font-size:1em;
+}
+H1{
+	 color:gray; font-variant:small-caps; font-size:1em;
+}
